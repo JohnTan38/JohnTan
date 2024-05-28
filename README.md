@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hi I'm John Tan, professional data analyst with a keen interest in AI/ML.
 
 
 <div style="display: inline_block"><br>
